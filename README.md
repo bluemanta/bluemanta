@@ -25,7 +25,7 @@ My path spans software engineering, retail CRM, entrepreneurship, and solutions 
 - 🛍️ Solutions consultant at a Hangzhou-based Martech company, researching business solutions for brands and retailers — **Shuyun**. (2019～)
 - 🚀 Co-founded a Nanjing-based technology company to build and bring CRM and Martech products to China's retail market — **Infomili**. (2013–2019)
 - 🌏 Led China operations and retail CRM development as China GM of a Singapore-based technology company — **iColumn**, later acquired by Norway's **Placewise**. (2011–2019)
-- 📊 Built Flash-based data visualization tools and a drag-and-drop email builder using Flash and JavaScript at a Singapore-based Martech company — **WaveO**. (2006–2010)
+- 📊 Built Flash-based data visualization tools and a drag-and-drop EDM webpage builder using Flash and JavaScript at a Singapore-based Martech company — **WaveO**. (2006–2010)
 
 ### Find Me
 
