@@ -1,32 +1,30 @@
-## Hi, I'm BM 👋
+## Hi, I'm Chris Wang 👋
+a.k.a. **BM** / [bluemanta](https://github.com/bluemanta)
 
-I'm Chris Wang, a.k.a. BM, short for **bluemanta**.
+I help brands and retailers make sense of **CRM/CDP selection**, **private-domain & omnichannel ops**, **store-associate digitization**, and **retail AI that actually ships** — with 14 years in solutions consulting and product delivery.
 
-**Making AI useful, one project at a time.**
+**Focus keywords:** brand retail digitalization · membership CRM/CDP · private domain & omnichannel · store associate digitization · retail AI adoption
 
 ### Projects
+- 🧪 [LoyaltyOps-Bench](https://huggingface.co/spaces/ibluemanta/LoyaltyOps-Bench) — Offline loyalty-ops benchmark: synthetic CRM tasks for agents, with evidence & reports (no live model required).
+- 🧠 [MantaRecall](https://github.com/bluemanta/MantaRecall) — LLM-free long-term memory for AI agents (hybrid retrieval; AML benchmark entry).
+- 🖥️ [bluemanta-desktop](https://github.com/bluemanta/bluemanta-desktop) — Personal AI workbench built on DeepSeek Harness.
 
-- 🖥️ [PortDash](https://github.com/bluemanta/portdash) — A visual control panel for local development servers, built with Node.js and zero dependencies.
-- 🧭 [Bluemanta OPC](https://github.com/bluemanta/bluemanta-opc) — A workflow kit and visual guide for coordinating desktop AI agents through Linear issues.
-
-### Exploring
-
-- 🎨 **AI-assisted presentations** — Exploring web slides with [bluemanta-slides](https://github.com/bluemanta/bluemanta-slides), a fork of [frontend-slides](https://github.com/zarazhangrui/frontend-slides), and editable PowerPoint decks with a fork of [ppt-master](https://github.com/bluemanta/ppt-master).
-- 📷 **Local AI** — Exploring photo understanding and natural-language search with my fork of [Life Lens](https://github.com/bluemanta/life-lens), originally by [uxtracer](https://github.com/uxtracer/life-lens).
-- 📡 **Learning from builders** — Following AI research and product development with my fork of [Follow Builders](https://github.com/bluemanta/follow-builders), originally by [Zara Zhang](https://github.com/zarazhangrui/follow-builders).
+### Side projects
+- 📚 [OnCue](https://github.com/bluemanta/oncue) — Mobile web tool: paste an English word, get meaning + pronunciation + examples, then speak it back and get scored.
+- 🎛️ [PortDash](https://github.com/bluemanta/portdash) — Zero-dependency control panel for local dev servers, ports, and processes.
+- 🎨 [bluemanta-slides](https://github.com/bluemanta/bluemanta-slides) — AI-assisted web slides; companion deck tooling in [ppt-master](https://github.com/bluemanta/ppt-master).
+- 📷 [life-lens](https://github.com/bluemanta/life-lens) — Local AI photo understanding and natural-language search.
 
 ### Background
-
-My path spans software engineering, retail CRM, entrepreneurship, and solutions consulting. Since 2024, I've been exploring AI through hands-on learning and building.
+Path across software engineering, retail CRM, entrepreneurship, and solutions consulting. Since 2024, building and shipping AI tools hands-on.
 
 #### Career
-
-- 🤖 Exploring AI through hands-on learning, experiments, and building useful tools. (2024–present)
-- 🛍️ Solutions consultant at a Hangzhou-based Martech company, researching business solutions for brands and retailers — **Shuyun**. (2019～)
-- 🚀 Co-founded a Nanjing-based technology company to build and bring CRM and Martech products to China's retail market — **Infomili**. (2013–2019)
-- 🌏 Led China operations and retail CRM development as China GM of a Singapore-based technology company — **iColumn**, later acquired by Norway's **Placewise**. (2011–2019)
-- 📊 Built Flash-based data visualization tools and a drag-and-drop EDM webpage builder using Flash and JavaScript at a Singapore-based Martech company — **WaveO**. (2006–2010)
+- 🤖 Exploring AI through tools, workflows, and products. (2024–present)
+- 🛍️ Solutions consulting for brand & retail Martech — CRM / membership / CDP / omnichannel (Hangzhou-based Martech). (2019–present)
+- 🚀 Co-founded Infomili (Nanjing) — CRM & Martech products for China’s retail market. (2013–2019)
+- 🌏 China GM, retail CRM — iColumn (Singapore), later acquired by Placewise (Norway). (2011–2019)
+- 📊 Flash data viz & EDM builder — WaveO (Singapore Martech). (2006–2010)
 
 ### Find Me
-
 [Website](https://ibluemanta.com) · [Email](mailto:wccshow@gmail.com)
